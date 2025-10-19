@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: app
-        image: docker.io/hophuochoan/helios:latest
+        image: docker.io/hoangphuc842/my-nodejs-app:latest
         ports:
         - containerPort: 8080
 ---
